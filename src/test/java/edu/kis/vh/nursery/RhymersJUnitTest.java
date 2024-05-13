@@ -5,9 +5,9 @@ import org.junit.Test;
 
 public class RhymersJUnitTest {
 
-    public static int EMPTY_STACK_VALUE = -1;
-    public static int TEST_VALUE = 4;
-    public static int STACK_CAPACITY = 12;
+    public static final int EMPTY_STACK_VALUE = -1;
+    public static final int TEST_VALUE = 4;
+    public static final int STACK_CAPACITY = 12;
 
 
     @Test
